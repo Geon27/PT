@@ -297,6 +297,10 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="Got'em"/>
                             </button>
+                            <colorWell contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="iBq-rH-6pA">
+                                <rect key="frame" x="182" y="407" width="28" height="28"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </colorWell>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="ZHr-Vg-o2q"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
