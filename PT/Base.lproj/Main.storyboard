@@ -282,6 +282,12 @@
                                     <segue destination="axN-tG-7is" kind="show" id="gaY-Wy-9Ne"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hbY-X7-b68">
+                                <rect key="frame" x="159" y="373" width="75" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="btB-fs-JpT"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
